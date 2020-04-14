@@ -1,2 +1,2 @@
 # Regression-Analysis
-ML supervised algorithm
+ML supervised algorithm : Linear Regression
