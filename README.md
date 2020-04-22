@@ -18,6 +18,7 @@ Datasets used: computers.csv and cars93.csv
        'Wheelbase', 'Width', 'Turn.circle', 'Rear.seat.room', 'Luggage.room',
        'Weight', 'Origin', 'Make'],
       dtype='object'
+      
   Accuracy attained: 60.8%
 
 
